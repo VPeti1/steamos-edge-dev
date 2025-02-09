@@ -36,3 +36,6 @@ docker run
 # About the leak
 The SteamOS (3.0) Source Code (and other repositories) were leaked by few amount of individuals (GuestSneezePlayZ, YourLocalMoon, etc), The original leak had a bunch of files missing.
 You can find more info here: http://www.mediafire.com/file/yh5t8h2lgbu5kdm/steamos_3.tar.gz
+
+# Download 
+https://github.com/VPeti1/steamos-edge-dev/releases/tag/img1
