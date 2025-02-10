@@ -1,4 +1,8 @@
-# SteamOS Edge
+# UPDATE
+Developement continues on GitLab: https://gitlab.com/VPeti11/
+
+#
+SteamOS Edge
 - What is this?
 SteamOS Edge is a and fixed version of the SteamOS 3 source code leak. Note this project is a **WORK IN PROGRESS** expect bugs!
 
